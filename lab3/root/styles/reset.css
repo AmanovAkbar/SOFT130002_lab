@@ -1,0 +1,56 @@
+/* 
+HTML5 Doctor Reset v1.6.1
+http://html5doctor.com/html-5-reset-stylesheet/
+*/
+.title, .title img , .title div, .title span , .symbol, .value form , .value, .value input, .comment li, 
+.active, section blockquote, .container, .container input, .container select, .container textarea,  html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+	
+   
+    border:1;
+	border-radius: 0;
+   
+    font-size:100%;
+    vertical-align:baseline;
+    background-color:transparent;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+nav ul {
+    list-style:none;
+}
+blockquote, q {
+    quotes:none;
+}
+
+a {
+    text-decoration:underline;
+    background:transparent;
+	color: blue;
+}
+a:hover{
+	color: blue;
+}
+/* change colours to suit your needs */
+
+/* change border colour to suit your needs */
+hr {
+    color: black;
+}
+input, select {
+	
+    vertical-align:middle;
+}
